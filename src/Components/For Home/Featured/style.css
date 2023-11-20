@@ -1,0 +1,8 @@
+.bg-img{
+    background-image: url(../../../assets/home/featured.jpg);
+    background-size: cover;
+}
+
+.size {
+    max-height: 700px;
+}
